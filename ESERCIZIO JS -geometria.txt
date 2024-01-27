@@ -1,0 +1,17 @@
+GEOMETRIA:
+ 3 figure geometriche: Triangolo, rettangolo e quadrato.
+1) Triangolo
+2) Rettangolo
+3) Quadrato
+
+L'utente deve inserire da tastiera:
+- cateto1 e cateto2 (per il Triangolo)
+- base e altezza (per il Rettangolo)
+- lato (per il Quadrato)
+Poi, per ogni figura geometrica bisogna stampare: l'Area e il Perimetro.
+
+
+
+
+
+PS.: Se vuoi, aggiugi anche il Cerchio (serve il Raggio da inserire da tastiera)
